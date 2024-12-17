@@ -1,0 +1,70 @@
+body{
+    background-image:url("railway.jpg");
+    background-size: cover;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    text-align: center;
+    text-align-last: auto;
+}
+
+p{
+    font-size: x-large;
+    text-decoration: solid greenyellow;
+}
+
+
+
+h6{
+    font-size: xx-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+div{
+    background-color: azure;
+    border: 3px solid black;
+    border-radius: 10px;
+    width:50vh;
+    margin: auto;
+}
+h5{
+    font-size:xx-large;
+}
+
+p1
+{
+    color: antiquewhite;
+    font-size: 500px;
+    font-family:bold 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0;
+    margin: 0;
+    height: auto;
+    width: auto;
+    text-decoration: underline;
+}
+
+button{
+    border-radius: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-weight:bold;
+    font-display:initial;
+    padding: 0;
+    margin: 0;
+    display: inline;
+    color: white;
+    width: 150px;
+    height: 50px;
+}
+#increment-btn{
+    background-color: darkred;
+}
+
+#save-btn{
+    background-color: darkgreen;
+}
+
+#reset-btn{
+    background-color: yellow;
+    color: black;
+}
